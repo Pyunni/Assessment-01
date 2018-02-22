@@ -1,0 +1,26 @@
+#menu {
+	position: fixed;
+	left: -110px;
+	top: 50px;
+	width: 100px;
+	padding: 5px;
+	background-color: aliceblue;
+	transition: 1s;
+}
+
+#menu button {
+	width: 100%;
+}
+
+#open{
+	position: absolute;
+	left: 110px;
+	top:0px;
+	width: 50px;
+}
+#close {
+	position: absolute;
+	left: 110px;
+	bottom: 0px;
+	width: 50px;
+}
